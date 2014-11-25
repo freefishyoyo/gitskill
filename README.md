@@ -2,4 +2,6 @@ gitskill
 
 create a new branch is quick and simple
 
-git is awsome
+git is awsome 
+
+how to use git fix your bug
